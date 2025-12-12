@@ -1,1 +1,7 @@
-
+BTS7960          KEYWORD1
+iniciar          KEYWORD2
+iniciarEncoder   KEYWORD2
+avanzar          KEYWORD2
+retroceder       KEYWORD2
+frenar           KEYWORD2
+detenerMotor     KEYWORD2
