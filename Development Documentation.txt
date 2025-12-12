@@ -1,1 +1,2 @@
-
+Este programa lo realize con la tuturía de Luis Hernández Samaniego ,creando la clase BTS7960 y los métodos : iniciar,           // 
+iniciarEncoder, avanzar,retroceder, frenar, detenerMotor; para controlar el movimiento del motor DC JGA 25 370 - 350RPM a 12VDC.    Use también el Driver BTS7960 .Adicionalmente a la clase se creo los archivos BTS7960.h ,BTS7960.cpp y el principal :LIBRERIA_MODULO_BTS7960_MOTOR_JGA_25_370_POO_WSIOK4_05_12_2025.ino y me apoye en la IA(CHATGPT) para corregir ciertos errores cuando no visualizaba exactamente los valores de los PPS ,RPM y SENTIDO de giro en el monitor Serial. Tambíen use el analizador logico generico para ver las señales que generaba el encoder . 
