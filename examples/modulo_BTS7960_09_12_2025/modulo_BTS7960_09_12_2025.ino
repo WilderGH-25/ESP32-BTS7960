@@ -7,8 +7,8 @@
  
 */
 
-#include <Arduino.h>       // Importa funciones básicas de Arduino
-#include "BTS7960.h"       // Importa la librería que controla el driver y el encoder
+//#include <Arduino.h>       // Importa funciones básicas de Arduino
+#include <BTS7960.h>       // Importa la librería que controla el driver y el encoder
 
 // --------------------------- Definición de pines ---------------------------
 
